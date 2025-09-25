@@ -1012,10 +1012,10 @@ Blastoise_estadisticas
 # Extras
 
 
-en proceso
+en proceso de espera
 
 # Glosario de terminos
 
-en proceso
+en proceso de espera
 
 
