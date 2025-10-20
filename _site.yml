@@ -1,0 +1,12 @@
+name: "CharBase-Pokedex"
+output_dir: "docs" # IMPORTANTE: Aquí es donde Render buscará los archivos.
+navbar:
+  title: "CharBase"
+  left:
+    - text: "Inicio"
+      href: index.html
+    - text: "Pokedex"
+      href: pokedex.html
+output:
+  html_document:
+    theme: journal # Asegúrate de que este tema sea compatible con R Markdown
